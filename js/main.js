@@ -5,7 +5,6 @@ var $listItem = $('.list-item');
 
 
 
-
 $form.on('submit', function (e) {
 
 	var $li = $('<li>');
